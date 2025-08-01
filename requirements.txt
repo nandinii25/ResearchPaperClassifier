@@ -1,0 +1,7 @@
+torch
+sentence-transformers
+transformers
+pdfplumber
+PyMuPDF
+tqdm
+langchain-community
